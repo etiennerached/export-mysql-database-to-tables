@@ -13,6 +13,8 @@ gunzip tablename.sql.gz
 
 Usage
 =====
+git clone https://github.com/etiennerached/export-mysql-database-to-tables
+
 bash ThisFileName DatabaseHost DatabaseUsername DatabaseName
 
 Usage Example
