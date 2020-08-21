@@ -13,7 +13,7 @@ gunzip tablename.sql.gz
 
 Usage
 =====
-bash <ThisFileName> <DatabaseHost> <DatabaseUsername> <DatabaseName>
+bash ThisFileName DatabaseHost DatabaseUsername DatabaseName
 
 Usage Example
 =============
